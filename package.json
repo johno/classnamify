@@ -1,5 +1,5 @@
 {
-  "name": "class-to-class-name",
+  "name": "classnamify",
   "description": "Convert class attributes to className",
   "author": "John Otander",
   "version": "1.0.0",
@@ -10,7 +10,7 @@
   "scripts": {
     "test": "ava"
   },
-  "repository": "johnotander/class-to-class-name",
+  "repository": "johnotander/classnamify",
   "keywords": [],
   "license": "MIT",
   "dependencies": {

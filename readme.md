@@ -1,17 +1,17 @@
-# class-to-class-name [![Build Status](https://secure.travis-ci.org/johnotander/class-to-class-name.svg?branch=master)](https://travis-ci.org/johnotander/class-to-class-name) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+# classnamify [![Build Status](https://secure.travis-ci.org/johnotander/classnamify.svg?branch=master)](https://travis-ci.org/johnotander/classnamify) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 
 Convert class attributes to className.
 
 ## Installation
 
 ```bash
-npm install --save class-to-class-name
+npm install --save classnamify
 ```
 
 ## Usage
 
 ```javascript
-var classToClassName = require('class-to-class-name')
+var classToClassName = require('classnamify')
 
 classToClassName('<div class="f1"></div>')  // => '<div className="f1"></div>'
 ```
