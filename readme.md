@@ -13,7 +13,7 @@ npm install --save class-to-class-name
 ```javascript
 var classToClassName = require('class-to-class-name')
 
-classToClassName('<div class="f1"></div>')  // => '<div className='f1'></div>
+classToClassName('<div class="f1"></div>')  // => '<div className="f1"></div>'
 ```
 
 ## License
