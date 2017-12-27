@@ -1,0 +1,22 @@
+{
+  "name": "class-to-class-name",
+  "description": "Convert class attributes to className",
+  "author": "John Otander",
+  "version": "0.1.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": "johnotander/class-to-class-name",
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
