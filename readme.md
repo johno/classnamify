@@ -11,9 +11,9 @@ npm install --save classnamify
 ## Usage
 
 ```javascript
-var classToClassName = require('classnamify')
+var classnamify = require('classnamify')
 
-classToClassName('<div class="f1"></div>')  // => '<div className="f1"></div>'
+classnamify('<div class="f1"></div>')  // => '<div className="f1"></div>'
 ```
 
 ## License
