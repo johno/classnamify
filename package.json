@@ -2,7 +2,7 @@
   "name": "class-to-class-name",
   "description": "Convert class attributes to className",
   "author": "John Otander",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "files": [
     "index.js"
